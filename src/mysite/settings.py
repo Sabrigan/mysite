@@ -126,11 +126,11 @@ STATICFILES_DIRS = (
 #    'static',
 #    'src/static',
 #    'blog/static',
-#    os.path.join(BASE_DIR, 'static'),
+    os.path.join(BASE_DIR, 'static'),
 #    os.path.join(BASE_DIR, 'src/static'),
-#    os.path.join(BASE_DIR, 'blog/static'),
-    '/home/pi/Dev/cfehome/src/static',
-    '/home/pi/Dev/cfehome/src/blog/static',
+    os.path.join(BASE_DIR, 'blog/static'),
+#    '/home/pi/Dev/cfehome/src/static',
+#    '/home/pi/Dev/cfehome/src/blog/static',
 )
 
 INTERNAL_IPS = ['127.0.0.1']
