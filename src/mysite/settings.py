@@ -25,7 +25,7 @@ SECRET_KEY = 'f4tmkc6#(q8k^9)p0q4n@op%hm%#&d%rr1%7sa07se^4jzcbfz'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["localhost","192.168.0.32","pierre-dauphin.hopto.org"]
+ALLOWED_HOSTS = ["localhost","192.168.0.32","pierre-dauphin.hopto.org","127.0.0.1"]
 
 
 # Application definition
