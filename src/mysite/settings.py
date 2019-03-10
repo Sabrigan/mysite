@@ -121,21 +121,13 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
-STATIC_ROOT= (
-    os.path.join(BASE_DIR, 'static'),
-    os.path.join(BASE_DIR, 'blog/static'),
-
-)
+STATIC_ROOT = ''
 
 STATICFILES_DIRS = (
-#    'static',
-#    'src/static',
-#    'blog/static',
-    os.path.join(BASE_DIR, 'static'),
-#    os.path.join(BASE_DIR, 'src/static'),
-    os.path.join(BASE_DIR, 'blog/static'),
-#    '/home/pi/Dev/cfehome/src/static',
-#    '/home/pi/Dev/cfehome/src/blog/static',
+    'static',
+    'blog/static',
+#    os.path.join(BASE_DIR, 'static'),
+#    os.path.join(BASE_DIR, 'blog/static'),
 )
 
 INTERNAL_IPS = ['127.0.0.1']
