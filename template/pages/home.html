@@ -1,0 +1,34 @@
+{% extends 'layout/base.html' %}
+
+{% block title %}Homepage{% endblock %}
+
+{% load static %}
+
+{% block stylesheets %}
+<script type="text/javascript"
+	src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+<script type="text/javascript"
+	src="http://netdna.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+<link href="{%static 'css/style1.css'%}" rel="stylesheet" type="text/css">
+<link href="{% static 'css/style2.css'%}" rel="stylesheet" type="text/css">
+{%endblock%}
+
+{% block content %}
+
+<div class="cover">
+		<div class="cover-image"
+			style="background-image: url('https://unsplash.imgix.net/photo-1422513391413-ddd4f2ce3340?w=1024&amp;amp;q=50&amp;amp;fm=jpg&amp;amp;s=282e5978de17d6cd2280888d16f06f04')">
+		</div>
+		<!--<div class="container"> --!>
+			<!--<div class="row">--!>
+				<div class="col-md-12 text-center">
+					<p style="color: white;">BienvenuEs à vous touTEs</p>
+					<br> <br> <a class="btn btn-lg btn-default"
+						href="{% url 'blog:bio' %}">Entrer si vous souhaitez en savoir plus sur
+						moi</a>
+                </div>
+            <!--</div>--!>
+        <!--</div>--!>
+</div>
+
+{% endblock %}
