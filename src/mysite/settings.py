@@ -121,7 +121,6 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
-
 STATICFILES_DIRS = (
 #    'static',
 #    'src/static',
