@@ -129,7 +129,6 @@ STATICFILES_DIRS = (
     os.path.join(BASE_DIR, 'static'),
     os.path.join(BASE_DIR, 'src/static'),
     os.path.join(BASE_DIR, 'blog/static'),
-
 )
 
 INTERNAL_IPS = ['127.0.0.1']
