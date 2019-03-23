@@ -16,19 +16,22 @@
 {% block content %}
 
 <div class="cover">
-		<div class="cover-image"
+		<!--<div class="cover-image"
 			style="background-image: url('https://unsplash.imgix.net/photo-1422513391413-ddd4f2ce3340?w=1024&amp;amp;q=50&amp;amp;fm=jpg&amp;amp;s=282e5978de17d6cd2280888d16f06f04')">
-		</div>
-		<!--<div class="container"> --!>
-			<!--<div class="row">--!>
+		</div>--!>
+		<div class="cover-image"
+			style=background-image: url({% static 'img/fond1.jpg' %});">
+		<!--</div>--!>
+		<!--<div class="container">
+			<div class="row">--!>
 				<div class="col-md-12 text-center">
 					<p style="color: white;">BienvenuEs à vous touTEs</p>
 					<br> <br> <a class="btn btn-lg btn-default"
 						href="{% url 'blog:bio' %}">Entrer si vous souhaitez en savoir plus sur
-						moi</a>
+						moi blabla</a>
                 </div>
             <!--</div>--!>
-        <!--</div>--!>
+        </div>
 </div>
 
 {% endblock %}
