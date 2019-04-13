@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2e86535e-10e7-4371-9e8c-4ef5535b6d9d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/static/Copie de Official TimelineJS3 Template.xlsx" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>cover-</find>
+      <find>background-im</find>
+      <find>url(</find>
+      <find>btn-lg</find>
+      <find>btn</find>
+      <find>row</find>
+      <find>.row</find>
+      <find>acti</find>
+      <find>.a</find>
+      <find>pointer-e</find>
+      <find>cursor:</find>
+      <find>url(&quot;img/entree.jpg&quot;)</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/template/errors/Erreur500.html" />
+        <option value="$PROJECT_DIR$/src/template/errors/Erreur404.html" />
+        <option value="$PROJECT_DIR$/src/static/css/style1.css" />
+        <option value="$PROJECT_DIR$/src/static/css/style2.css" />
+        <option value="$PROJECT_DIR$/src/template/layout/stylesheet.html" />
+        <option value="$PROJECT_DIR$/src/template/layout/base-test.html" />
+        <option value="$PROJECT_DIR$/src/mysite/settings.py" />
+        <option value="$PROJECT_DIR$/src/blog/assets/blog/css/style2.css" />
+        <option value="$PROJECT_DIR$/src/blog/assets/blog/css/style1.css" />
+        <option value="$PROJECT_DIR$/src/assets/css/style2-test.css" />
+        <option value="$PROJECT_DIR$/src/template/pages/test.html" />
+        <option value="$PROJECT_DIR$/src/template/layout/_stylesheet.html" />
+        <option value="$PROJECT_DIR$/src/assets/css/style2.css" />
+        <option value="$USER_HOME$/Desktop/new/mysite/src/template/pages/home.html" />
+        <option value="$USER_HOME$/Desktop/new/mysite/src/mysite/urls.py" />
+        <option value="$USER_HOME$/Desktop/new/mysite/src/blog/static/blog/css/style2.css" />
+        <option value="$PROJECT_DIR$/src/mysite/urls.py" />
+        <option value="$PROJECT_DIR$/src/template/layout/base.html" />
+        <option value="$PROJECT_DIR$/src/template/pages/home.html" />
+        <option value="$PROJECT_DIR$/src/mysite/views.py" />
+        <option value="$PROJECT_DIR$/src/blog/template/blog/pages/informatique.html" />
+        <option value="$PROJECT_DIR$/src/blog/template/blog/layout/base.html" />
+        <option value="$PROJECT_DIR$/src/blog/models.py" />
+        <option value="$PROJECT_DIR$/src/blog/template/blog/pages/projets.html" />
+        <option value="$PROJECT_DIR$/src/blog/template/blog/pages/competences.html" />
+        <option value="$PROJECT_DIR$/src/blog/template/blog/pages/autre.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1201" />
+    <option name="height" value="804" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="mysite" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="mysite" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="mysite" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="static" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="two.files.diff.last.used.folder" value="$USER_HOME$/Desktop/new/mysite" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/static" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets/css" />
+      <recent name="$PROJECT_DIR$/src/assets" />
+      <recent name="$PROJECT_DIR$/src/blog/static/blog/css" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e86535e-10e7-4371-9e8c-4ef5535b6d9d" name="Default Changelist" comment="" />
+      <created>1553374079707</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553374079707</updated>
+    </task>
+    <task id="LOCAL-00001" summary="style1&amp;2 ajouté + amélioration +test background image">
+      <created>1553379999454</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1553379999454</updated>
+    </task>
+    <task id="LOCAL-00002" summary="remise en forme pour demarrer direct sur ma bio + ajout de +s point sur informatique">
+      <created>1553611001919</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1553611001919</updated>
+    </task>
+    <task id="LOCAL-00003" summary="sauter direct a la premiere page">
+      <created>1553696732568</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1553696732568</updated>
+    </task>
+    <task id="LOCAL-00004" summary="faire sauter l'image de haut pour le site">
+      <created>1553697168620</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1553697168620</updated>
+    </task>
+    <task id="LOCAL-00005" summary="faire sauter l'image de haut pour le site">
+      <created>1553698074763</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1553698074763</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Mise à jour de compétence et projets">
+      <created>1553699661337</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1553699661337</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Mise à jour de autres">
+      <created>1553699763776</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1553699763776</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1201" height="804" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49790794" visible="true" weight="0.3516949" />
+      <window_info id="Structure" order="1" sideWeight="0.50209206" side_tool="true" weight="0.29661018" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286517" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3286517" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49778566" visible="true" weight="0.3286517" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5022144" side_tool="true" weight="0.3286517" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3286517" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="style1&amp;2 ajouté + amélioration +test background image" />
+    <MESSAGE value="remise en forme pour demarrer direct sur ma bio + ajout de +s point sur informatique" />
+    <MESSAGE value="sauter direct a la premiere page" />
+    <MESSAGE value="faire sauter l'image de haut pour le site" />
+    <MESSAGE value="Mise à jour de compétence et projets" />
+    <MESSAGE value="Mise à jour de autres" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mise à jour de autres" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/template/errors/Erreur404.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/template/errors/Erreur500.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="57" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/static/img/fond1.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/static/img/entree.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/blog/static/blog/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-135" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blog/static/blog/css/style1.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/template/layout/base-test.html" />
+    <entry file="file://$PROJECT_DIR$/src/mysite/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/css/style2-test.css" />
+    <entry file="file://$PROJECT_DIR$/src/template/pages/test.html" />
+    <entry file="file://$PROJECT_DIR$/src/blog/static/blog/css/style2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4080">
+          <caret line="272" column="13" selection-start-line="272" selection-start-column="9" selection-end-line="272" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blog/template/blog/layout/_nav.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/template/layout/_stylesheet.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/static/css/style2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111075">
+          <caret line="7405" column="14" selection-start-line="7405" selection-start-column="14" selection-end-line="7405" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/static/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/static/css/style1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mysite/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="132" selection-start-line="132" selection-end-line="132" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/new/mysite/src/mysite/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/new/mysite/src/blog/static/blog/css/style2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="7439" column="36" selection-start-line="7439" selection-start-column="36" selection-end-line="7439" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/new/mysite/src/static/css/style2.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/new/mysite/src/template/pages/home.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blog/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blog/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="25" column="47" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/template/layout/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/template/pages/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mysite/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="e#630#662#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mysite/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="49" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/db.sqlite3">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2018.3/python_stubs/-2010535109/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3291">
+          <caret line="792" column="8" selection-start-line="792" selection-start-column="8" selection-end-line="792" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/django/db/models/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="504" column="8" selection-start-line="504" selection-start-column="8" selection-end-line="504" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blog/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blog/template/blog/layout/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="13" column="74" selection-start-line="13" selection-start-column="74" selection-end-line="13" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blog/template/blog/pages/competences.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="48" column="26" selection-start-line="44" selection-start-column="20" selection-end-line="48" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blog/template/blog/pages/autre.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="55" column="26" selection-start-line="46" selection-start-column="20" selection-end-line="55" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blog/template/blog/pages/bio.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blog/template/blog/pages/experiences.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blog/template/blog/pages/informatique.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blog/template/blog/pages/projets.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="632">
+          <caret line="175" column="14" selection-start-line="175" selection-start-column="14" selection-end-line="175" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
