@@ -31,8 +31,8 @@ class PostTimeline(Timestamp):
     body = models.TextField()
     media = models.URLField()
     media_credit = models.CharField(max_length=250)
-    media_caption =
-    media_thumbnail =
+    # media_caption =
+    # media_thumbnail =
     type_tl = models.CharField()
     group = models.CharField()
     background = models.CharField()
