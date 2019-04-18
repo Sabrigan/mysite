@@ -1,42 +1,43 @@
-[
- {
-   "Year": 2011,
-   "Month": 11,
-   "Day": 1,
-   "Time": "",
-   "End Year": 2011,
-   "End Month": 12,
-   "End Day": 15,
-   "End Time": "",
-   "Display Date": "",
-   "Headline": "Another Flickr Example",
-   "Text": "It's Easy to Make Your Own Timeline",
-   "Media": "http://www.flickr.com/photos/zachwise/6894476777/in/photostream",
-   "Media Credit": "Zach Wise/verite.co",
-   "Media Caption": "Chicago to NYC",
-   "Media Thumbnail": "",
-   "Type": "",
-   "Group": "",
-   "Background": "#333333"
- },
- {
-   "Year": 2011,
-   "Month": 11,
-   "Day": 16,
-   "Time": "05:58:44",
-   "End Year": 2011,
-   "End Month": 11,
-   "End Day": 16,
-   "End Time": "07:30:00",
-   "Display Date": "",
-   "Headline": "Vimeo Example",
-   "Text": "Illustrate your Timeline with photos, videos, tweets and more.",
-   "Media": "https://vimeo.com/143407878",
-   "Media Credit": "Knight Lab",
-   "Media Caption": "A video about how to make timelines!",
-   "Media Thumbnail": "",
-   "Type": "",
-   "Group": "",
-   "Background": "http://knightlab.northwestern.edu/wp-content/uploads/2015/03/front-page-image.jpg"
- }
-]
+{
+    "events": [
+        {
+            "start_date": {
+                "year":         "2015",
+                "month":        "11",
+                "day":          "28"
+            },
+            "text": {
+                "headline": "Mise en ligne du blog",
+                "text":     "Le développement touchant à sa fin, le blog fut mis en ligne le 28 novembre 2015"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year":         "2015",
+                "month":        "12",
+                "day":          "01"
+            },
+            "text": {
+                "headline": "Premier article en ligne",
+                "text":     "Le premier article mis en ligne sur le site avait pour sujet la pagination"
+            }
+        },
+        {
+            "start_date": {
+                "year":         "2015",
+                "month":        "12",
+                "day":          "04"
+            },
+            "text": {
+                "headline": "Nouvelle catégorie",
+                "text":     "Création de la catégorie Lifestyle, une catégorie qui contient des articles moins technique que ceux de la catégorie Web"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        }
+    ]
+}
