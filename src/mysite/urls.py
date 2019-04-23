@@ -32,7 +32,6 @@ urlpatterns = [
     re_path('^contact/', views.contact, name='contact'),
     url(r'^blog/', include('blog.urls')),
     url(r'^admin/', admin.site.urls),
-    path('admin/', admin.site.urls),
 ]
 
 urlpatterns += staticfiles_urlpatterns()
