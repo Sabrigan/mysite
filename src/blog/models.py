@@ -1,4 +1,6 @@
 from django.db import models
+from django import forms
+
 
 
 class Timestamp(models.Model):
@@ -9,30 +11,24 @@ class Timestamp(models.Model):
         abstract = True
 
 
+
 class Post(Timestamp):
     title = models.CharField(max_length=255)
     body = models.TextField()
+    test = models.BooleanField(default=False)
+    date_de_debut = models.DateTimeField(auto_now=False)
+    date_de_fin = models.DateTimeField(auto_now_add=False)
+    url_test = models.URLField(default="www.pierre-dauphin.hopto.org")
+    image = models.ImageField()
 
 
     def __str__(self):
         return self.title
 
-
-# class PostTimeline(Timestamp):
-#     y_begin = models.IntegerField()
-#     m_begin = models.IntegerField()
-#     d_begin = models.IntegerField()
-#     t_begin = models.TimeField()
-#     y_end = models.IntegerField()
-#     m_end = models.IntegerField()
-#     d_end = models.IntegerField()
-#     t_end = models.TimeField()
-#     headline = models.CharField(max_length=500)
-#     body = models.TextField()
-#     media = models.URLField()
-#     media_credit = models.CharField(max_length=250)
-#     # media_caption =
-#     # media_thumbnail =
-#     type_tl = models.CharField()
-#     group = models.CharField()
-#     background = models.CharField()
+# data = serializers.serialize("xml", Post.objects.all())
+# XMLSerializer = serializers.get_serializer("xml")
+# xml_serializer = XMLSerializer()
+# xml_serializer.serialize('xml', Post.objects.all(), fields=('title','body'))
+# data = xml_serializer.getvalue()
+# with open("file.xml", "w") as out:
+#     xml_serializer.serialize(Post.objects.all(), stream=out)
