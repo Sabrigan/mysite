@@ -56,9 +56,8 @@ ROOT_URLCONF = 'mysite.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [os.path.join(BASE_DIR, 'template'),
-                 os.path.join(BASE_DIR, 'blog/template'),
-                 '/home/pi/Dev/cfehome/lib/python3.5/site-packages/django/contrib/admin/templates',
+        'DIRS': [os.path.join(BASE_DIR, 'templates'),
+                 os.path.join(BASE_DIR, 'blog/templates'),
                  ],
         'APP_DIRS': True,
         'OPTIONS': {
