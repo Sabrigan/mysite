@@ -8,6 +8,7 @@ class Timestamp(models.Model):
 
     class Meta:
         abstract = True
+        verbose_name_plural = "PostS"
 
 
 
@@ -23,11 +24,3 @@ class Post(Timestamp):
 
     def __str__(self):
         return self.title
-
-# data = serializers.serialize("xml", Post.objects.all())
-# XMLSerializer = serializers.get_serializer("xml")
-# xml_serializer = XMLSerializer()
-# xml_serializer.serialize('xml', Post.objects.all(), fields=('title','body'))
-# data = xml_serializer.getvalue()
-# with open("file.xml", "w") as out:
-#     xml_serializer.serialize(Post.objects.all(), stream=out)
