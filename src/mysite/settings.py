@@ -58,7 +58,7 @@ TEMPLATES = [
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
         'DIRS': [os.path.join(BASE_DIR, 'template'),
                  os.path.join(BASE_DIR, 'blog/template'),
-                 os.path.join(BASE_DIR, 'admin/templates'),
+                 '/home/pi/Dev/cfehome/lib/python3.5/site-packages/django/contrib/admin/templates',
                  ],
         'APP_DIRS': True,
         'OPTIONS': {
