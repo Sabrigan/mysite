@@ -1,5 +1,4 @@
 from django.db import models
-from django import forms
 
 
 
@@ -19,7 +18,7 @@ class Post(Timestamp):
     date_de_debut = models.DateTimeField(auto_now=False)
     date_de_fin = models.DateTimeField(auto_now_add=False)
     url_test = models.URLField(default="www.pierre-dauphin.hopto.org")
-    image = models.ImageField()
+    image = models.ImageField(default="{%static img/fond1.jpg %}")
 
 
     def __str__(self):
