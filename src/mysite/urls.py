@@ -39,4 +39,4 @@ urlpatterns += staticfiles_urlpatterns()
 
 admin.site.site_header = "Sabrigan Admin"
 admin.site.site_title = "Portail Administration Sabrigan"
-admin.site.index_title = "Bienvenue sur le site admin de Sabrigan"
+admin.site.index_title = "Bienvenue sur le site admin de MR Sabrigan"
