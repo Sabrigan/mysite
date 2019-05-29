@@ -12,70 +12,15 @@
 <link href="{%static 'css/style1.css'%}" rel="stylesheet" type="text/css">
 <link href="{%static 'css/style2.css'%}" rel="stylesheet" type="text/css">
 <link href="{%static 'css/styles.css'%}" rel="stylesheet" type="text/css">
-
 {%endblock%}
+
+
 {% block content %}
-<div>
-    <link title="timeline-styles" rel="stylesheet" href="{%static 'timeline3/css/timeline.css'%}">
-    <script src="{%static 'timeline3/js/timeline.js'%}"></script>
-    <div id='timeline-embed' style="width: 100%; height: 600px">
-        <script type="text/javascript">
-            var timeline_json = "{%static 'test-timelinejs.json'%}";
-            var additionalOptions = {
-              start_at_end: true,
-              default_bg_color: {r:0, g:0, b:0},
-              timenav_height: 250
-            }
-            timeline = new TL.Timeline('timeline-embed',
-                timeline_json,
-                additionalOptions);
-        </script>
-    </div>
-</div>
 
-<!--<div>
- https://cdn.knightlab.com/libs/timeline3/latest/js/timeline.js
-href="https://cdn.knightlab.com/libs/timeline3/latest/css/timeline.css"-->
-<!--<script src="https://cdn.knightlab.com/libs/timeline3/latest/js/timeline.js"></script>-->
-
-<!---->
-<!--    <script type="text/javascript">-->
-<!--        timeline = new TL.Timeline('timeline-embed',-->
-<!--          -->
-<!--</div>-->
-<!--    </div>-->
-
-<!--         // The TL.Timeline constructor takes at least two arguments:
-            // the id of the Timeline container (no '#'), and
-            // the URL to your JSON data file or Google spreadsheet.
-            // the id must refer to an element "above" this code,
-            // and the element must have CSS styling to give it width and height
-            // optionally, a third argument with configuration options can be passed.
-            // See below for more about options.
-    <div class="col-md-12"></div>-->
-	<!--<div class="section">-->
-		<!--<div class="container">-->
-			<!--<div class="row">-->
-				<!--<div class="col-md-12">-->
-					<!--<img src='img/fond1.jpg' class="img-responsive">-->
-				<!--</div>-->
-			<!--</div>-->
-		<!--</div>-->
-	<!--</div>-->
-{% include 'blog/layout/_nav.html' %}
-
-<!--<div class="wrapper">
-
-
-    <h1>Blog</h1>--!>
-
-    {%block body%}{%endblock%}
-
- <!--</div>--!>
+{%block body%}{%endblock%}
 
 {% block javascripts %}{%endblock%}
 
-
 {% include 'blog/layout/_footer.html' %}
 
-{% endblock %}
+{%endblock%}

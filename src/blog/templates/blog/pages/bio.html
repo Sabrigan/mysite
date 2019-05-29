@@ -1,6 +1,28 @@
 {% extends 'blog/layout/base.html' %}
+{% load static from staticfiles %}
 
-{% block title %} Bio {% endblock %}
+{% block title %} Bio{% endblock %}
+{% block content %}
+<div>
+	<link title="timeline-styles" rel="stylesheet" href="{%static 'timeline3/css/timeline.css'%}">
+    <script src="{%static 'timeline3/js/timeline.js'%}"></script>
+    <div id='timeline-embed' style="width: 100%; height: 600px">
+        <script type="text/javascript">
+            var timeline_json = "{%static 'bio.json'%}";
+            var additionalOptions = {
+             start_at_end: true,
+              default_bg_color: {r:0, g:0, b:0},
+              timenav_height: 150
+            }
+            timeline = new TL.Timeline('timeline-embed',
+                timeline_json,
+                additionalOptions);
+        </script>
+    </div>
+</div>
+
+{% include 'blog/layout/_nav.html' %}
+
 
 {% block body %}
 <article>
@@ -148,5 +170,8 @@
 </article>
 
 <!--<p><a href="{% url 'blog:index' %}">revenir à l'index</a></p>--!>
+
+{% endblock %}
+{% include 'blog/layout/_footer.html' %}
 
 {% endblock %}
