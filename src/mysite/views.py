@@ -12,9 +12,9 @@ def contact(request):
     return render(request, 'pages/contact.html')
 
 
-def handler404(request):
+def handler404(request, exception):
     return render(request, 'errors/Erreur404.html')
 
 
-def handler500(request):
+def handler500(request, exception):
     return render(request, 'errors/Erreur500.html')

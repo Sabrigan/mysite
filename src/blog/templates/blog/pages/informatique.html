@@ -2,9 +2,14 @@
 
 {% load static %}
 
-{% block title %} Informatique {% endblock %}--!>
+{% block title %} Informatique {% endblock %}
+
 
 {% block body %}
+
+{% include 'blog/layout/_nav.html' %}
+
+
 <article>
 <div class="section">
 		<div class="container">
@@ -23,8 +28,7 @@
 						<li><progress value="80" max="100">80%</progress>Java</li>
 						<li><progress value="50" max="100">50%</progress>SQL</li>
 						<li><progress value="50" max="100">50%</progress>JUNIT</li>
-						<li><progress value="30" max="100">30%</progress>Design
-							Pattern</li>
+						<li><progress value="30" max="100">30%</progress>Design Pattern</li>
 						<li><progress value="40" max="100">40%</progress>CDI</li>
 						<li><progress value="80" max="100">80%</progress>Jsf</li>
 					</ul>

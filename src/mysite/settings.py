@@ -81,8 +81,13 @@ WSGI_APPLICATION = 'mysite.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
+        'NAME': 'mysite',
+        'USER': 'sabrigan',
+        'PASSWORD':'Poisson@1',
+        'HOST': 'localhost',
+        'PORT': '',
+
     }
 }
 
@@ -125,10 +130,10 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
-STATIC_ROOT = ''
+STATIC_ROOT = os.path.join(BASE_DIR, 'static')
+
 
 STATICFILES_DIRS = (
-    os.path.join(BASE_DIR, 'static'),
     os.path.join(BASE_DIR, 'blog/static'),
 )
 
